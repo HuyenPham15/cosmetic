@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c12895f-649d-474c-9ac5-cdcabc0b4a96" name="Changes" comment="cosmetic">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/CosmeticstoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/model/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/repository/usser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/security/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cosmetics/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/admin/css/me.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/admin/js/A.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/user/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/user/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/A.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/brand.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/change_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/forgot_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/wishlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cosmetics/CosmeticstoreApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NhatLinh21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HuyenPham15/cosmetic.git&quot;,
+    &quot;accountId&quot;: &quot;c0569fd2-c143-4ef8-897a-1034bfc7b9c3&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mmbl82P6muulrv5ldwboBx7xov" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FPL/DuAnTotnghiep/cosmetic-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FPL\DuAnTotnghiep\cosmetic-main\src\main\resources\static" />
+      <recent name="D:\FPL\DuAnTotnghiep\cosmetic-main\src\main\resources\templates\admin" />
+      <recent name="D:\FPL\DuAnTotnghiep\cosmetic-main\src\main\resources" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static\user\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\templates" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static\user" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static\admin" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static\admin\css" />
+      <recent name="D:\DATN\cosmeticstore\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CosmeticstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="cosmeticstore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cosmetics.CosmeticstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c12895f-649d-474c-9ac5-cdcabc0b4a96" name="Changes" comment="" />
+      <created>1727684850880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727684850880</updated>
+      <workItem from="1727684851944" duration="2480000" />
+    </task>
+    <task id="LOCAL-00001" summary="cosmetic">
+      <option name="closed" value="true" />
+      <created>1727756974769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727756974769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cosmetic">
+      <option name="closed" value="true" />
+      <created>1727758126942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727758126942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cosmetic">
+      <option name="closed" value="true" />
+      <created>1727759025084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727759025084</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cosmetic" />
+    <option name="LAST_COMMIT_MESSAGE" value="cosmetic" />
+  </component>
+</project>
